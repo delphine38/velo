@@ -1,3 +1,9 @@
+.page {
+    width: auto;
+    padding-top: 1%; 
+}
+
+
 header ul {
     display: flex;
     justify-content: space-around;
@@ -10,6 +16,25 @@ header ul {
 .titreprincipal {
     background-color: beige;
 }
+
+.fleche {
+    background-color: cadetblue;
+}
+.lorem {
+    padding-left: 1%;
+}
+.apropos {
+    background-color: yellowgreen;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
+
 
 
 /*header {
