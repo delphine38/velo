@@ -28,7 +28,16 @@ header ul {
     color: white;
     text-align: justify;
 }
-
+h3 {
+    text-align: center;
+}
+.turquoise {
+    margin-top: 10%;
+}
+.entourage {
+    border: 1px solid blue;
+    margin-top: 10%;
+}
 
 
 
